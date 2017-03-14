@@ -16,6 +16,24 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        self.window?.backgroundColor = .second()
+        //UITabBar.appearance().barTintColor = .first()
+        //UITabBar.appearance().backgroundColor = UIColor.white
+        UITabBar.appearance().tintColor = .first()
+        
+        let appearance = UITabBarItem.appearance()
+        let attributes = [NSFontAttributeName:UIFont.short()]
+        appearance.setTitleTextAttributes(attributes, for: .normal)
+        
+        
+        let navigationBarAppearace = UINavigationBar.appearance()
+        //navigationBarAppearace.tintColor = UIColor.first()
+        navigationBarAppearace.barTintColor = UIColor.first()
+        navigationBarAppearace.titleTextAttributes = [NSForegroundColorAttributeName:UIColor.white, NSFontAttributeName: UIFont.normalBold()]
+        
+        UITableViewHeaderFooterView.appearance().backgroundColor = .clear
+        
         return true
     }
 

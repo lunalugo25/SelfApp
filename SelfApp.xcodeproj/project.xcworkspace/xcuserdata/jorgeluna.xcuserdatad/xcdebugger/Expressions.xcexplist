@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FoldingCell.addImageItemsToAnimationView() -&gt; ():FoldingCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SAPortfolioTVC.tableView(UITableView, willDisplay : UITableViewCell, forRowAt : IndexPath) -&gt; ():SAPortfolioTVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SAPrincipalTVC.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:SAPrincipalTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arraySections[section]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SAPhotoAlbumCVC.collectionView(UICollectionView, numberOfItemsInSection : Int) -&gt; Int:SAPhotoAlbumCVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FoldingCell.createAnimationView() -&gt; ():FoldingCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "containerView.constraints">
+            </PersistentString>
+            <PersistentString
+               value = "containerView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoCollectionViewCell.photo.didset:PhotoCollectionViewCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static Photo.all() -&gt; [Photo]:Photo.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static Personal.all() -&gt; [Personal]:Personal.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "infoFromPlist.allKeys">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Photo.init(dictionary : NSDictionary) -&gt; Photo:Photo.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.rotation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIImage.decompressedImage() -&gt; UIImage:Extension.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>ITESM – Campus México</string>
+		<key>subtitle</key>
+		<string>Diplomado en Desarrollo de Aplicaciones Móviles</string>
+		<key>category</key>
+		<string>Escuela</string>
+		<key>latitude</key>
+		<real>19.283411</real>
+		<key>longitude</key>
+		<real>-99.13520800000001</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>UPIICSA - IPN</string>
+		<key>subtitle</key>
+		<string>Ingeniería en Informática</string>
+		<key>category</key>
+		<string>Escuela</string>
+		<key>latitude</key>
+		<real>19.396427</real>
+		<key>longitude</key>
+		<real>-99.09263900000001</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>CECyT No 8 - IPN</string>
+		<key>subtitle</key>
+		<string>Técnico en Computación</string>
+		<key>category</key>
+		<string>Escuela</string>
+		<key>latitude</key>
+		<real>19.487157</real>
+		<key>longitude</key>
+		<real>-99.17455699999999</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Institudo Amado Nervo</string>
+		<key>subtitle</key>
+		<string>Secundaria</string>
+		<key>category</key>
+		<string>Escuela</string>
+		<key>latitude</key>
+		<real>19.465076</real>
+		<key>longitude</key>
+		<real>-99.08955400000001</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Colegio Tepeyac del Bosque</string>
+		<key>subtitle</key>
+		<string>Primaria</string>
+		<key>category</key>
+		<string>Escuela</string>
+		<key>latitude</key>
+		<real>19.463683</real>
+		<key>longitude</key>
+		<real>-99.055015</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Punto Casa de Bolsa</string>
+		<key>subtitle</key>
+		<string>iOS Developer</string>
+		<key>category</key>
+		<string>Trabajo</string>
+		<key>latitude</key>
+		<real>19.296555</real>
+		<key>longitude</key>
+		<real>-99.18584799999999</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Banco Azteca</string>
+		<key>subtitle</key>
+		<string>Desarrollador Web</string>
+		<key>category</key>
+		<string>Trabajo</string>
+		<key>latitude</key>
+		<real>19.296807</real>
+		<key>longitude</key>
+		<real>-99.18601200000001</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hogar</string>
+		<key>subtitle</key>
+		<string>Vivo Actualmente</string>
+		<key>category</key>
+		<string>Casa</string>
+		<key>latitude</key>
+		<real>19.28147</real>
+		<key>longitude</key>
+		<real>-99.186251</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Papas</string>
+		<key>subtitle</key>
+		<string>Hogar infancia</string>
+		<key>category</key>
+		<string>Casa</string>
+		<key>latitude</key>
+		<real>19.488387</real>
+		<key>longitude</key>
+		<real>-99.073684</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>KMMX</string>
+		<key>subtitle</key>
+		<string>Usabilidad en aplicaciones móviles</string>
+		<key>category</key>
+		<string>Curso</string>
+		<key>latitude</key>
+		<real>19.413168</real>
+		<key>longitude</key>
+		<real>-99.165443</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Big Nerd Ranch</string>
+		<key>subtitle</key>
+		<string>Objective-C/iOS Training</string>
+		<key>category</key>
+		<string>Curso</string>
+		<key>latitude</key>
+		<real>19.296141</real>
+		<key>longitude</key>
+		<real>-99.186289</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Big Nerd Ranch</string>
+		<key>subtitle</key>
+		<string>Advanced iOS Programming</string>
+		<key>category</key>
+		<string>Curso</string>
+		<key>latitude</key>
+		<real>19.296282</real>
+		<key>longitude</key>
+		<real>-99.186313</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Aster</string>
+		<key>subtitle</key>
+		<string>CUI14 Java SE: Programación Avanzada</string>
+		<key>category</key>
+		<string>Curso</string>
+		<key>latitude</key>
+		<real>19.374625</real>
+		<key>longitude</key>
+		<real>-99.161519</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Aster</string>
+		<key>subtitle</key>
+		<string>CUI14 Java SE: Programación Avanzada</string>
+		<key>category</key>
+		<string>Curso</string>
+		<key>latitude</key>
+		<real>19.374625</real>
+		<key>longitude</key>
+		<real>-99.161519</real>
+	</dict>
+</array>
+</plist>

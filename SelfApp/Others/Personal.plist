@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Nombre:</key>
+	<array>
+		<string>Jorge Guillermo Luna Lugo</string>
+	</array>
+	<key>Dirección:</key>
+	<array>
+		<string>Av. Fuentes Brotantes\nCol. Fuentes Brotantes</string>
+	</array>
+	<key>Edad:</key>
+	<array>
+		<string>27 años</string>
+	</array>
+	<key>Edo. Civil:</key>
+	<array>
+		<string>Casado</string>
+	</array>
+	<key>Virtudes:</key>
+	<array>
+		<string>\t- Creativo</string>
+		<string>\t- Analitico</string>
+	</array>
+	<key>Defectos:</key>
+	<array>
+		<string>\t- Analitico</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Punto Trader</string>
+		<key>company</key>
+		<string>Punto Casa de Bolsa</string>
+		<key>description</key>
+		<string>Es la aplicación de Punto donde se pueden comprar y vender acciones que cotizan en la BMV.\nEn esta app tambien se puede revisar el Estado de Cuenta de cada cliente, consultar los movimientos de los últimos meses y poder dar el seguimiento adecudo de las acciones como sus movimientos en el año o que empresas la conforman.</string>
+		<key>challenge</key>
+		<string>Mi mayor reto fue la implementación de Push Notifications con Amazon ya que no habia generado certificados anteriormente. Asi mismo la implementación de una conexión segura con certificados SSL con AlamoFire.</string>
+		<key>url</key>
+		<string>www.puntocasadebolsa.mx</string>
+		<key>image</key>
+		<string>trader</string>
+		<key>frameworks</key>
+		<array>
+			<string>AlamoFire</string>
+			<string>AlamoFireImage</string>
+			<string>Realm</string>
+			<string>CorePlot</string>
+			<string>Charts</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Punto Token (Retirado)</string>
+		<key>company</key>
+		<string>Punto Casa de Bolsa</string>
+		<key>description</key>
+		<string>Esta aplicación permite tener un token para tener acceso a la Punto Casa de Bolsa.\nSe configura ingresando la clave enviada al cliente y mediante un algoritmo se genera una serie de 6 numeros.</string>
+		<key>challenge</key>
+		<string>Aunque esta app esta integrada actualmente en Punto Trader me toco la migración de Obj-C a Swift y fue complicado generar el wrapper para utilizar el Keychain y poder recuperar las misma etiquetas que ya se tenian guardadas anteriormente.</string>
+		<key>url</key>
+		<string>www.puntocasadebolsa.mx</string>
+		<key>image</key>
+		<string>token</string>
+		<key>frameworks</key>
+		<array>
+			<string>KeyChainItemWrapper</string>
+		</array>
+	</dict>
+</array>
+</plist>
